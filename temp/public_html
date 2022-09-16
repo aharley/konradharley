@@ -1,0 +1,242 @@
+<html>
+<head>
+<link href="css/style.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="js/jquery-1.11.1.min.js"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Konrad Harley</title></head>
+<body>
+	<div id="container">
+		<div id="page">
+			<div id="header">
+				<div id="headerContent">
+					
+						
+					</div>
+					<div id="info">
+						<div id="infoContent">
+							<h1>KONRAD HARLEY</h1>
+							<p>COMPOSER | PIANIST | ORGANIST | CHOIR DIRECTOR | MUSIC THEORIST</p>
+							<p>Ph.D. Musicology/Music Theory, M.A. Musicology, B.Mus. Organ Performance</p>
+							<p>harley.konrad@gmail.com</p>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			
+		
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {font-family: Arial;}
+
+/* Style the tab */
+.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+    font-size: 17px;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+</style>
+</head>
+<body>
+
+
+<div class="tab">
+  <button class="tablinks" onclick="openCity(event, 'Sheet Music')" id="defaultOpen">Sheet Music</button>
+  <button class="tablinks" onclick="openCity(event, 'Doctoral Thesis')">Doctoral Thesis</button> 
+  <button class="tablinks" onclick="openCity(event, 'About Me')">About Me</button>
+  
+
+</div>
+
+<div id="Sheet Music" class="tabcontent">	
+ <p>For sheet music of my compositions and arrangements, visit <a href="https://www.sheetmusicplus.com/search?Ntt=konrad+harley">Sheet Music Plus.
+ Many of my original compositions celebrate the beauty of mathematics.
+</a></p>
+
+<h3>Pendulum for Clarinet and Piano</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/srfloVjDGyg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<h3>Falling Leaves for Clarinet and Piano</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k25yvGP5AI0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h3>Problem Solver for Clarinet and Piano</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g9zJzzrFmzc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h3>Wave Form for 2 Flutes and Piano</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rDs7F7kECPw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h3>Reverie for Clarinet and Piano</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A-XADsn_gX0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<h3>The Last Line for Oboe and Piano</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kzOsd0A8OKA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<h3>March for Clarinet and Piano</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oSi1zXlMWgI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<h3>Clockwise Spiral for Oboe and Piano</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EqqJqYLBY7U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h3>Golden Root for Trumpet and Piano</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9RvxIow-I9s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h3>Night Air for Piano</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/foYOg6Bkx2s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h3>Fine Point for Clarinet and Piano</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Tu0NlIWAZ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h3>Power Play for Trumpet and Piano</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ou-J4KtA0fY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+	<h3>Skipping Stones for Piano</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uwhafDvF2iI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+	<h3>Arabesque for Clarinet and Piano</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c2tcQHO4_gA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+	<h3>Going in Circles for Piano</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t3HyRQ9QbqI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+	<h3>Balancing Act for Flute and Piano</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cZvVOI9rALw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<h3>Nocturne for Clarinet and Piano (Inspired by Emil Post's Tag System)</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r0cRnc-qmKk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<h3>Reflection for Oboe and Piano (on the Enumeration of Partitions by Binary Representation)</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-jA0xRSE9VE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<h3>Rondo in C Major for Piano</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FlKSUfLJKro" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<h3>Siphonophore for Piano</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bAzVuLS8KR4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<h3>Infinite Staircase for Piano and Organ</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FKJximh89eg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<h3>Puzzle Piece for Piano</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aEgkbByZ-cU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<h3>Deep Roots for Piano</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u0HzYujK2zI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<h3>Prelude in E Major for Piano</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DqM7WwFK4KI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<h3>My Brain Is Open (A Tribute to Paul Erdos) for Piano</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNn2GericZo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<h3>Reflection for Piano (on the Enumeration of Partitions by Binary Representation)</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hAipBl5J6BE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<h3>Prelude in G Major (Bubble Sort) for Piano</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l_dZcJBqmg4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<h3>Pendulum for Piano</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/brvEvAWV2Dg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<h3>Wave Form for Piano</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/47Zr1TYSATU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<h3>Golden Ceiling for Piano</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tfncYUc3dXs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<h3>Nocturne for Piano (Inspired by Emil Post's Tag System) - shorter version</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CurlYi1vah4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<h3>Nocturne for Piano (Inspired by Emil Post's Tag System) - longer version</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mUnkBHHRZC4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<h3>Two-Gen Swing for Piano</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OPJTB_UrGK0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<h3>Dialogue of the Evil and the Odious for Piano</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2MOf9qnKgVI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<h3>Balancing Act for Piano (Inspired by Sequence A005812 in the OEIS)</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k80rLjnFJqI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<h3>Hailstone Etude for Piano (The Hailstone Sequence and the Collatz Conjecture)</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qy3t8qRWhXE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<h3>Spiral Study for Piano (on a Golden Ratio Fractal Sequence)</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lnuBYYwObBM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<h3>Toccata in A Minor for Piano (Miwin's Dice)</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AeWMxqRnM1U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<h3>Waltz in C Major for Piano (Derangements)</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JDt5w5HBzy0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<h3>Toccata in A Minor for Piano (Interleaved Multiples)</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fK547LfTA4w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<h3>Humoresque in A Major for Piano (Leaf Nodes in a Binary Tree)</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-amFRsTeYAA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	
+
+</div>
+<div id="About Me" class="tabcontent">			
+
+    <h3>About Me</h3>
+	<p><img src="images/konradweddingphoto.jpeg" alt="picture" style="float:right;width:15%;height:;margin:0px 5px 15px 20px;">
+
+  <p>Konrad Harley (1986-) received his ARCT diploma in Piano Performance at the Royal Conservatory of Music in Toronto in 2007, his B.Mus. degree in Organ Performance at the University of Toronto in 2008, and his Ph.D. in Music Theory at the University of Toronto in 2014 (<a href="https://tspace.library.utoronto.ca/handle/1807/68119">"Harmonic Function in the Music of Sergei Prokofiev"</a>). While studying at university, Konrad Harley was the organist and choir director at <a href="https://sites.google.com/site/christchurchwoodbridge/">Christ Church Woodbridge</a> (2006-2013) and the piano accompanist of the <a href="http://queensmen.net/">Queensmen Male Chorus</a> (2006-2012). In 2016, he presented a paper on Prokofiev's harmonic language at the Symposium on Prokofiev and the Russian Tradition in Baton Rouge, Louisiana. An essay by Konrad Harley on the analysis of Prokofiev's music is included in the book <a href="https://www.amazon.com/Rethinking-Prokofiev-Rita-McAllister/dp/0190670770"><i>Rethinking Prokofiev</i></a> (Oxford University Press, 2020). Since 2015, he has been the organist and choir director at <a href="http://www.stbarnabas-toronto.com/">St. Barnabas Church</a> in Toronto.</p>
+<br> </br>
+<br> </br>
+<br> </br>
+</div>
+
+<div id="Doctoral Thesis" class="tabcontent">	
+
+  <h3>Doctoral Thesis</h3>
+				<p><a href="https://tspace.library.utoronto.ca/handle/1807/68119">Read my dissertation here (University of Toronto TSpace)</a></p>
+				<p><strong>Title:</strong> Harmonic Function in the Music of Sergei Prokofiev
+				<p><strong>Author:</strong> Konrad Harley
+				<p><strong>Advisor:</strong> Ryan McClelland
+				<p><strong>Institution:</strong> University of Toronto, Faculty of Music
+				<p><strong>Keywords:</strong> Harmony; Music theory; Prokofiev; Russian music; Soviet music
+				<p><strong>Issue Date:</strong> June 2014
+				<p><strong>Abstract:</strong> This dissertation examines aspects of harmonic function in the music of Sergei Prokofiev. Chapter 1 provides a survey of music theory literature on Prokofiev's music--including many Russian studies--and discusses the theoretical underpinnings of my analytical approach. Chapter 2 deals with Prokofiev's uses of symmetry and inversion in tonal plans and harmonic progressions, emphasizing the importance of perfect-fifth-related harmonic alternatives and long series of perfect fifths in works in what Prokofiev called his "classical line." The central topic of Chapter 3 is sequential harmony. This subdivides into discussions of Prokofiev's characteristic use of brief linking chords that clearly express dominant function; long, structural, but "obscure" dominants; plagal sequential trajectories in which a written-out ritardando seems to compensate for the lack of a culminating D-T relation; and directional changes ("volte-faces") signalling the end of sequential passages. Chapter 4 considers questions of harmonic function in light of <i>ladovaia peremennost'</i> (modal variability) and tonal pairing, which for Prokofiev is typically major-third-based; the discussion extends to a variety of harmonic techniques involving reinterpretation, substitution, or redirection by major third. In Chapter 5, the focus shifts to the semitone. Investigating the harmonic-functional implications of events commonly referred to as chromatic displacements, I suggest that the concept of chromatic substitution is often of limited value and explore some of the ways in which harmonic-functional balance and tonal closure arise in spite of (or in some sense due to) these events. Chapter 6 offers a conclusion and suggestions for future research, emphasizing the value of studying Prokofiev's harmonic practice in relation to nineteenth-century precedents (rather than to the Classical style), highlighting some of the harmonic techniques and tonal strategies that cut across the conventional boundaries of Prokofiev's About and oeuvre, and re-evaluating the ways in which certain traditional tonal principles are relevant even to Prokofiev's idiosyncratic "modern line."
+			
+				
+</div>
+
+
+
+
+</div>
+<script>
+function openCity(evt, cityName) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+        tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById(cityName).style.display = "block";
+    evt.currentTarget.className += " active";
+}
+
+
+// Get the element with id="defaultOpen" and click on it
+document.getElementById("defaultOpen").click();
+
+</script>
+   
+</body>		
+	
